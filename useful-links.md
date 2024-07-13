@@ -23,7 +23,6 @@
 
 - KPRepublic
 - Osume Keys
-- Drop
 - NovelKeys
 
 ### List of Reputable Keycap AliExpress Stores
