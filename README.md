@@ -12,3 +12,7 @@ Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBSjQh1Z
   - A prospective sister community to r/mk, catered to beginners and people interested in building keyboards across various different levels of budget. This entails searching for the best deals possible according to your preferences and budget allocations.
 - [BlackSimon Discord Server](http://blacksimon.tv/discord)
   - If you liked the BlackSimon videos from the playlist I linked earlier, this is the community discord server where enthusiasts from different walks can help you delve deeper into the hobby or otherwise make informed purchasing decisions. If you're interested in learning about the kinds of keyboards outside of Cherry MX, this is a great place to start.
+- [QMK Discord Server](https://discord.gg/qmk)
+  - For those of you that want to learn about keebort firmware as well as creating keymaps/layers.
+- [ZMK Discord Server](https://zmk.dev/community/discord/invite)
+  - Like QMK, but for wireless keeborts.
