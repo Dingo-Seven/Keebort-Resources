@@ -4,7 +4,10 @@ A small repository containing useful links to resources pertaining to Cherry MX-
 
 ## Want to Learn about Mechanical Keyboards?
 
-Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBSjQh1ZHVFlEe6FgRSnn_T9&si=dc55ps5Kq5aa2R7B) for tutorials on various aspects of the hobby, and serves as great material for folks to revisit and rehash their knowledge base. You are more than welcome to contribute to this playlist thru GitHub Issues or if I post the playlist anywhere.
+Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBSjQh1ZHVFlEe6FgRSnn_T9&si=dc55ps5Kq5aa2R7B) for tutorials on various aspects of the hobby.
+
+- Serves as great material for folks to revisit and rehash their knowledge base.
+- You are more than welcome to contribute to this playlist thru GitHub Issues or if I post the playlist anywhere else on the net.
 
 ## Want to Contribute?
 
