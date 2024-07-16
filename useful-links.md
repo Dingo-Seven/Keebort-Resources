@@ -24,8 +24,11 @@
 - KPRepublic
 - Osume Keys
 - NovelKeys
+- CannonKeys
 
 ### List of Reputable Keycap AliExpress Stores
+
+<!-- Best to keep on another living document fueled by user participation, refer to Xmex AliX sheet -->
 
 - Dye Fetish
 - Real Eagles Trading
