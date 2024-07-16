@@ -4,11 +4,11 @@
 
 ## Keyboard Kits
 
-- [Link to super-cheap GMK67 on AliExpress](https://aliexpi.com/4Kmz)
+- [Link to cheap Zuoya GMK67 on AliExpress](https://aliexpi.com/4Kmz)
 
 ## Switches
 
-- [Link to Milktooth Store, good for North America](https://milktooth.nu/)
+- [Link to Milktooth Store, good for US folks](https://milktooth.nu/)
 
 ## Stabs
 

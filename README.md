@@ -1,12 +1,26 @@
 # Keebort Resources
 
-A small repository containing useful links to resources pertaining to Cherry MX-style (for now) mechanical keyboards
+A small repository containing useful links to resources pertaining to Cherry MX-style (for now) mechanical keyboards.
 
-## Want to learn about Mechanical Keyboards?
+## Want to Learn about Mechanical Keyboards?
 
-Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBSjQh1ZHVFlEe6FgRSnn_T9&si=dc55ps5Kq5aa2R7B) for tutorials on various aspects of the hobby, and serves as great material for folks to revisit and rehash their knowledge base. You are more than welcome to contribute to this playlist by way of GitHub issues.
+Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBSjQh1ZHVFlEe6FgRSnn_T9&si=dc55ps5Kq5aa2R7B) for tutorials on various aspects of the hobby, and serves as great material for folks to revisit and rehash their knowledge base. You are more than welcome to contribute to this playlist thru GitHub Issues or if I post the playlist anywhere.
 
-## Useful Communities to consider joining for keebort enthusiasts:
+## Want to Contribute?
+
+First and foremost, thank you for considering to contribute :D
+
+Currently, I am opening discussions to GitHub Issues to keep discussions open and transparent among members of the community. As of writing the first few iterations of the repo (mid-July 2024), The mission is, and always will be, to accumulate a breadth of knowledge and resources to share among beginners and enthusiasts (including prospective engineers/designers) alike, so that everyone can benefit from this set of resources.
+
+Full disclosure though, I am collaborating with some folks from the BehindTheBoard community to explore making resources similar to BlackSimon's chyna/budget sheets, but I will not be limiting any knowledge/contributions from other communities. Credit where credit is due.
+
+Here are a couple of things I'd love to address in some capacity in the future:
+
+- Gaining some level of organization similar to this [repository](https://github.com/Callsign-Dingo-7/UK-Happy-Hardcore-Resources) that I made for folks who were interested UK Happy Hardcore music production.
+  - I have some ideas in terms of separating keyboard tools, assembly, mods, and design or something along those lines, but I think I need to discuss this with folks who have been in the scene longer than I have to help guide me in the right direction.
+- I'm looking around for useful resources for things like designing, programming, and soldering keeborts to beefen this repo up.
+
+## Useful Communities to Consider Joining for Keebort Enjoyers:
 
 - Bottom of the Board: [Subreddit](https://www.reddit.com/r/BottomOfTheBoard/) and [Discord Server](https://discord.gg/EgMsPG85Ke)
   - A prospective sister community to r/mk, catered to beginners and people interested in building keyboards across various different levels of budget. This entails searching for the best deals possible according to your preferences and budget allocations.
