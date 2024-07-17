@@ -60,5 +60,6 @@ Here are some AliX stores that I have had good experiences with:
 - [TX Switch Puller](https://divinikey.com/products/tx-switch-puller?variant=40208825876545) - Decent switch puller, slightly better than IC puller bc/ tabs on switch won't break
 - [WS Switch Puller](https://divinikey.com/collections/keyboard-tools/products/wuque-titanium-switch-puller) - Good for tight spaces b/w switch and chassis
 - [Keycap Puller Example](https://divinikey.com/products/spiral-metal-keycap-puller) - Any cheapo one will work so long as you have thin metal wire as shown with the example
+- [KeyDotCo Grease Syringe Kit](https://thekey.company/products/stabilizer-grease-syringe-kit) - Serves as a good example for what kinda syringes you want for stab lubing/tuning, look for 14/16ga flat needle tips
 - [Cheapo Switch Containers](https://www.aliexpress.us/item/3256805089867412.html) - 700ml will fit about 150-160ish switches - safe price is around USD 16 for 4
 - [Cheapo Makeup Micro-Applicators for Lube Applications](https://www.amazon.com/Applicator-Disposable-Applicators-Mascara-Extension/dp/B09YHJ685C/ref=sr_1_5) - Good for thick lubes, get brush for thin lubes
