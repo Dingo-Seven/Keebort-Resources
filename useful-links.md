@@ -26,17 +26,15 @@
 - NovelKeys
 - CannonKeys
 
-### List of Reputable Keycap AliExpress Stores
+### List of Reputable AliExpress Stores
 
-<!-- Best to keep on another living document fueled by user participation, refer to Xmex AliX sheet -->
+Link to actively updated [sheet](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTC07f0YZG5CrKL2Z2oo-L09cMz6pnGOsV2Jj1hpLIpBHFAcK9_Pyegcq4LhHK2MOo8WaUYQ_SdYdIn/pubhtml) that documents experiences with AliExpress stores that is maintained by BottomOfTheBoard's xmex.
 
-- Dye Fetish
-- Real Eagles Trading
-- GMKY
-- Yongqiu
+- CutesLiving
 - KPRepublic
-- Keebox
 - KBDiy
+- Keebox
+- INEDA Digital Store
 
 ### Reputable Keycap Brands
 
