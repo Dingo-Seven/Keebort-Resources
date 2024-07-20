@@ -8,6 +8,12 @@ For those that came before me.
 
 - [MechKeys Keyboard Wiki](https://wiki.keyboard.gay/)
 - [Blur: Beginners' Orientation Article](https://thekeysource.co.uk/how-to-buy-and-build-a-custom-keyboard/)
+- [QMK: Total Beginner Orientation](https://docs.qmk.fm/newbs)
+- [QMK: Total Beginner Orientation Supplemental Reading](https://docs.qmk.fm/newbs_learn_more_resources)
+- [QMK: Beginner Syllabus](https://docs.qmk.fm/syllabus)
+- [QMK: Adding your keebort](https://docs.qmk.fm/porting_your_keyboard_to_qmk)
+- [ZMK: Documentation and Introduction](https://docs.zephyrproject.org/latest/develop/getting_started/index.html)
+- [ZMK: Zephyr Project Beginner Orientation](https://docs.zephyrproject.org/latest/develop/getting_started/index.html) - Good for learning what goes on behind the curtain in ZMK
 
 ## Keyboard Kits
 
