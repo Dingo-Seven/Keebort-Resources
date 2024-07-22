@@ -9,6 +9,8 @@ Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBSjQh1Z
 - Serves as great material for folks to revisit and rehash their knowledge base.
 - You are more than welcome to contribute to this playlist thru GitHub Issues or if I post the playlist anywhere else on the net.
 
+[Here](/useful-links.md) are a set of useful links, regardless of your experience in the hobby.
+
 ## Want to Contribute?
 
 First and foremost, thank you for considering to contribute :D
