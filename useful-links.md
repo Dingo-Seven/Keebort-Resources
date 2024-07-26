@@ -12,7 +12,7 @@ For those that came before me.
 - [QMK: Total Beginner Orientation Supplemental Reading](https://docs.qmk.fm/newbs_learn_more_resources)
 - [QMK: Beginner Syllabus](https://docs.qmk.fm/syllabus)
 - [QMK: Adding your keebort](https://docs.qmk.fm/porting_your_keyboard_to_qmk)
-- [ZMK: Documentation and Introduction](https://docs.zephyrproject.org/latest/develop/getting_started/index.html)
+- [ZMK: Documentation and Introduction](https://zmk.dev/docs)
 - [ZMK: Zephyr Project Beginner Orientation](https://docs.zephyrproject.org/latest/develop/getting_started/index.html) - Good for learning what goes on behind the curtain in ZMK
 
 ## Keyboard Kits
@@ -43,7 +43,7 @@ For those that came before me.
 
 ### List of Reputable AliExpress Stores
 
-Link to actively updated [sheet](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTC07f0YZG5CrKL2Z2oo-L09cMz6pnGOsV2Jj1hpLIpBHFAcK9_Pyegcq4LhHK2MOo8WaUYQ_SdYdIn/pubhtml) that documents experiences with AliExpress stores that is maintained by BottomOfTheBoard's xmex.
+Link to [sheet](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTC07f0YZG5CrKL2Z2oo-L09cMz6pnGOsV2Jj1hpLIpBHFAcK9_Pyegcq4LhHK2MOo8WaUYQ_SdYdIn/pubhtml) that documents experiences with AliExpress stores that is maintained by BottomOfTheBoard's xmex.
 
 Here are some AliX stores that I have had good experiences with:
 
