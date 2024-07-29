@@ -12,6 +12,7 @@ This is a master bibliography of community resources for ease of access as well 
 - [r/mk Subreddit Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index/)
 - [Blur: Beginners' Orientation Article](https://thekeysource.co.uk/how-to-buy-and-build-a-custom-keyboard/)
 - [Keycap Profiles Legend](https://www.keycaps.info/)
+- [Alexotos 2024 Building Guide for Newbies](https://www.alexotos.com/how-to-build-a-mechanical-keyboard/)
 
 ### QMK:
 

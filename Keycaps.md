@@ -19,13 +19,22 @@ Here are some notable profiles that are commonplace throughout users in the hobb
 - DCX
 - DSA
 - SA
-- XDA (:P)
+- XDA (I believe XDA Matcha is a rite of passage in this hobby, that's right, Anchor XP)
 - MDA
 - MT3
 
-## Misc
+## Manufacturing
 
-To be added
+Keycaps have a few ways of being manufactured, so I will be providing a brief overview of the most common terms:
+
+- Doubleshot => plastic injection layer for keycap shape, plastic injection layer for keycap legend
+  - Legends will not fade over time
+- Tripleshot => Same as doubleshot, except a third plastic injection for (typically) a sublegend
+- Dye-Sub => Typically entails that a small surface area, or the overall top surface area of the keycap is heated to transfer dye to it
+  - Legends fade over a _long_, _long_ time, we're talking 5+ years here if not longer
+- Reverse Dye-Sub AKA 5-Side Dye-Sub => Heats all surfaces of the keycap except for the underside to dye the whole keycap
+  - Susceptible to warping which can affect stabilized keys like `backspace`, `enter`, and spacebar, to name a few of them
+  - This also makes the keycaps less thick, which can lend them to a higher pitch compared to conventional dye-sub
 
 ## Some Reputable Keycap Vendors
 
