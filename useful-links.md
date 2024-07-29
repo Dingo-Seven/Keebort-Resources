@@ -13,6 +13,7 @@ This is a master bibliography of community resources for ease of access as well 
 - [Blur: Beginners' Orientation Article](https://thekeysource.co.uk/how-to-buy-and-build-a-custom-keyboard/)
 - [Keycap Profiles Legend](https://www.keycaps.info/)
 - [Alexotos 2024 Building Guide for Newbies](https://www.alexotos.com/how-to-build-a-mechanical-keyboard/)
+- [Alexotos Soldering Guide for Newbies](https://www.alexotos.com/how-to-solder-a-keyboard-the-basics/)
 
 ### QMK:
 

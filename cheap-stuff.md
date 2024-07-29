@@ -21,9 +21,14 @@ Here are some AliExpress stores that I have had good experiences with:
 
 ## Stabs
 
-- [Link to cheap Cherry 2u PCB Stab Bulk on Mouser](https://www.mouser.com/ProductDetail/540-G99-0742)
-- [Link to cheap Cherry 2u Plate Stab Bulk on Mouser](https://www.mouser.com/ProductDetail/540-G99-0224)
+- [Link to cheap Cherry 2u PCB Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0742) on Mouser
+- [Link to cheap Cherry 2u Plate Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0224) on Mouser
 - Looking for links for decent bulk wires (spacebars especially)
+
+## Lubricants
+
+- [Link to cheap 51004 Super Lube](https://www.amazon.com/Super-Lube-51004-Synthetic-Viscosity/dp/B000UKUHXK) => Excellent for lubing springs, your mileage may vary for lubing switches
+- [Link to cheap 21030 Super Lube](https://www.amazon.com/Super-Lube-21030-Synthetic-Grease/dp/B000XBH9HI) => Excellent for lubing stabilizer housings and wires
 
 ## Soldering
 
