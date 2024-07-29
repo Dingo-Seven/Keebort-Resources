@@ -11,6 +11,7 @@ This is a master bibliography of community resources for ease of access as well 
 - [MechKeys Discord Keyboard Wiki](https://wiki.keyboard.gay/)
 - [r/mk Subreddit Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index/)
 - [Blur: Beginners' Orientation Article](https://thekeysource.co.uk/how-to-buy-and-build-a-custom-keyboard/)
+- [Keycap Profiles Legend](https://www.keycaps.info/)
 
 ### QMK:
 
@@ -28,7 +29,3 @@ This is a master bibliography of community resources for ease of access as well 
 
 - [Link to Milktooth Store, good for US folks](https://milktooth.nu/)
 - Looking for INTL vendors for switches to add regions :D
-
-## Keycaps
-
-[Keycap Profiles Legend](https://www.keycaps.info/)
