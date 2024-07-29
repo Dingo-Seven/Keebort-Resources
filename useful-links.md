@@ -1,71 +1,34 @@
 # Useful Links
 
-[Link to KeebFinder, a PC Part Picker-like site for finding kits/switches](https://keeb-finder.com/)
+[Link to KeebFinder](https://keeb-finder.com/), a PC Part Picker like site for finding kits/switches. Good for finding Chyna boards if you're a newbie :)))
 
 ## Community Documentation
 
 For those that came before me.
 
-- [MechKeys Keyboard Wiki](https://wiki.keyboard.gay/)
+This is a master bibliography of community resources for ease of access as well as ones that I may reference in the other files. I don't want folks to only look at my perspective on things, and to view the different resources out there so that they can begin to think for themselves.
+
+- [MechKeys Discord Keyboard Wiki](https://wiki.keyboard.gay/)
+- [r/mk Subreddit Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index/)
 - [Blur: Beginners' Orientation Article](https://thekeysource.co.uk/how-to-buy-and-build-a-custom-keyboard/)
+
+### QMK:
+
 - [QMK: Total Beginner Orientation](https://docs.qmk.fm/newbs)
 - [QMK: Total Beginner Orientation Supplemental Reading](https://docs.qmk.fm/newbs_learn_more_resources)
 - [QMK: Beginner Syllabus](https://docs.qmk.fm/syllabus)
 - [QMK: Adding your keebort](https://docs.qmk.fm/porting_your_keyboard_to_qmk)
+
+### ZMK:
+
 - [ZMK: Documentation and Introduction](https://zmk.dev/docs)
-- [ZMK: Zephyr Project Beginner Orientation](https://docs.zephyrproject.org/latest/develop/getting_started/index.html) - Good for learning what goes on behind the curtain in ZMK
-
-## Keyboard Kits
-
-- [Link to cheap Zuoya GMK67 on AliExpress, good first chyna board](https://aliexpi.com/4Kmz)
+- [ZMK: Zephyr Project Beginner Orientation](https://docs.zephyrproject.org/latest/develop/getting_started/index.html)
 
 ## Switches
 
 - [Link to Milktooth Store, good for US folks](https://milktooth.nu/)
 - Looking for INTL vendors for switches to add regions :D
 
-## Stabs
-
-- [Link to cheap Cherry 2u PCB Stab Bulk on Mouser](https://www.mouser.com/ProductDetail/540-G99-0742)
-- [Link to cheap Cherry 2u Plate Stab Bulk on Mouser](https://www.mouser.com/ProductDetail/540-G99-0224)
-- Looking for links to decent bulk wires (spacebars especially)
-
 ## Keycaps
 
 [Keycap Profiles Legend](https://www.keycaps.info/)
-
-### Reputable Keycap Vendors
-
-- KPRepublic
-- Osume Keys
-- NovelKeys
-- CannonKeys
-
-### List of Reputable AliExpress Stores
-
-Link to [sheet](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTC07f0YZG5CrKL2Z2oo-L09cMz6pnGOsV2Jj1hpLIpBHFAcK9_Pyegcq4LhHK2MOo8WaUYQ_SdYdIn/pubhtml) that documents experiences with AliExpress stores that is maintained by BottomOfTheBoard's xmex.
-
-Here are some AliX stores that I have had good experiences with:
-
-- CutesLiving
-- KPRepublic
-- Keebox
-- INEDA Digital Store
-
-### Reputable Keycap Brands
-
-- Shenpo
-- Leek Bros
-- JC Studio
-
-## Tools/Misc
-
-- [Geon Plate Support Fork](https://geon.works/products/geon-plate-support-fork) - For foamless configs
-- [Geon Switch Opener](https://geon.works/products/geon-switch-opener) - Not much to say, it just works
-- [Geon Stem Picker](https://divinikey.com/collections/accessories/products/geon-stem-picker) - For shaky hands on stem lubing
-- [TX Switch Puller](https://divinikey.com/products/tx-switch-puller?variant=40208825876545) - Decent switch puller, slightly better than IC puller bc/ tabs on switch won't break
-- [WS Switch Puller](https://divinikey.com/collections/keyboard-tools/products/wuque-titanium-switch-puller) - Good for tight spaces b/w switch and chassis
-- [Keycap Puller Example](https://divinikey.com/products/spiral-metal-keycap-puller) - Any cheapo one will work so long as you have thin metal wire as shown with the example
-- [KeyDotCo Grease Syringe Kit](https://thekey.company/products/stabilizer-grease-syringe-kit) - Serves as a good example for what kinda syringes you want for stab lubing/tuning, look for 14/16ga flat needle tips
-- [Cheapo Switch Containers](https://www.aliexpress.us/item/3256805089867412.html) - 700ml will fit about 150-160ish switches - safe price is around USD 16 for 4
-- [Cheapo Makeup Micro-Applicators for Lube Applications](https://www.amazon.com/Applicator-Disposable-Applicators-Mascara-Extension/dp/B09YHJ685C/ref=sr_1_5) - Good for thick lubes, get brush for thin lubes
