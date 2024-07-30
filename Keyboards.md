@@ -4,7 +4,7 @@ This file is not meant to go terribly in-depth about the keyboard case/pcb, mods
 
 Keyboards are fairly self-explanatory, but to sum them up, they are an input device that uses different technologies on the PCB to enter inputs to the host device. There exist many kinds of keyboard technologies, Cherry MX is the most popular at the moment, but there also exist Alps, Topre, Buckling Springs, Solenoids, etc.
 
-There also exist many kinds of layouts, starting from full-size 108-key layout, working down to 96% 1800 layout, to 80% Tenkeyless (TKL), to 75% Compact TKL, to 65% compact, to 60%. These are just the most common layouts that you'd find, there's **plenty** more where that came from, including 40s, ergo\_\_\_, planck/preonic, HHKB, etc, to name a few.
+There also exist many kinds of layouts, starting from full-size 108-key layout, working down to 96% 1800 layout, to 80% Tenkeyless (TKL), to 75% Compact TKL, to 65% compact, to 60%. These are just the most common layouts that you'd find, there's **_plenty_** more where that came from, including 40s, ergo, planck/preonic, HHKB, etc, to name a few.
 
 ## Building a keyboard
 

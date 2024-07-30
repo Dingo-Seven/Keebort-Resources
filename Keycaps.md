@@ -6,7 +6,7 @@ Keycaps are what we use to cover up the backing technologies of the PCB and ulti
 
 ## Material
 
-The big two materials that are around are ABS and PBT. ABS is the material that most folks are familiar with. The general consensus is that ABS tends to lend itself to a higher pitch compared to PBT. This is because ABS has a lower density compared to PBT.
+The big two materials around keycaps are ABS and PBT. ABS is the material that most folks are familiar with because most OEM keycaps are made of this material. The general consensus is that ABS tends to lend itself to a higher pitch compared to PBT. This is because ABS has a lower density compared to PBT. The key to a more 'full' sound is a proper thickness, ranging from at least 1.3mm to at most 2mm or so according to Cherry specifications.
 
 ## Profiles
 
@@ -33,12 +33,12 @@ Keycaps have a few ways of being manufactured, so I will be providing a brief ov
 - Dye-Sub => Typically entails that a small surface area, or the overall top surface area of the keycap is heated to transfer dye to it
   - Legends fade over a _long_, _long_ time, we're talking 5+ years here if not longer
 - Reverse Dye-Sub AKA 5-Side Dye-Sub => Heats all surfaces of the keycap except for the underside to dye the whole keycap
-  - Susceptible to warping which can affect stabilized keys like `backspace`, `enter`, and spacebar, to name a few of them
+  - Susceptible to warping which can affect stabilized keys like backspace, enter, and spacebar, to name a few of them
   - This also makes the keycaps less thick, which can lend them to a higher pitch compared to conventional dye-sub
 
-## Some Reputable Keycap Vendors
+<!-- ## Some Reputable Keycap Vendors
 
 - KPRepublic
 - Osume Keys
 - NovelKeys
-- CannonKeys
+- CannonKeys -->

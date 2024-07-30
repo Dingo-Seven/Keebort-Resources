@@ -6,7 +6,7 @@ I also am looking to include useful resources for folks to use when shopping aro
 
 ## Shopping
 
-- Link to [sheet](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTC07f0YZG5CrKL2Z2oo-L09cMz6pnGOsV2Jj1hpLIpBHFAcK9_Pyegcq4LhHK2MOo8WaUYQ_SdYdIn/pubhtml) that documents experiences with AliExpress stores that is maintained by BottomOfTheBoard's xmex. Currently Editing to allow for direct community input through google form/survey inputs.
+- Link to [sheet](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTC07f0YZG5CrKL2Z2oo-L09cMz6pnGOsV2Jj1hpLIpBHFAcK9_Pyegcq4LhHK2MOo8WaUYQ_SdYdIn/pubhtml) that documents experiences with AliExpress stores that is maintained by Keybroke's xmex. Currently Editing to allow for direct community input through google form/survey inputs.
 
 Here are some AliExpress stores that I have had good experiences with:
 
