@@ -17,18 +17,18 @@ Here are some AliExpress stores that I have had good experiences with:
 
 ## Keyboard Kits
 
-- [Link to cheap Zuoya GMK67](https://aliexpi.com/4Kmz) on AliExpress, good first chyna board
+- [Zuoya GMK67](https://aliexpi.com/4Kmz) on AliExpress, good first chyna board
 
 ## Stabs
 
-- [Link to cheap Cherry 2u PCB Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0742) on Mouser
-- [Link to cheap Cherry 2u Plate Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0224) on Mouser
+- [Cherry 2u PCB Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0742) on Mouser
+- [Cherry 2u Plate Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0224) on Mouser
 - Looking for links for decent bulk wires (spacebars especially)
 
 ## Lubricants
 
-- [Link to cheap 51004 Super Lube](https://www.amazon.com/Super-Lube-51004-Synthetic-Viscosity/dp/B000UKUHXK) => Excellent for lubing springs, your mileage may vary for lubing switches
-- [Link to cheap 21030 Super Lube](https://www.amazon.com/Super-Lube-21030-Synthetic-Grease/dp/B000XBH9HI) => Excellent for lubing stabilizer housings and wires
+- [51004 Super Lube](https://www.amazon.com/Super-Lube-51004-Synthetic-Viscosity/dp/B000UKUHXK) => Excellent for lubing springs, your mileage may vary for lubing switches
+- [21030 Super Lube](https://www.amazon.com/Super-Lube-21030-Synthetic-Grease/dp/B000XBH9HI) => Excellent for lubing stabilizer housings and wires
 
 ## Soldering
 
@@ -41,6 +41,7 @@ To be added.
   - [TX Switch Puller](https://divinikey.com/products/tx-switch-puller?variant=40208825876545) - Decent switch puller, slightly better than IC puller bc/ tabs on switch won't break
   - [WS Switch Puller](https://divinikey.com/collections/keyboard-tools/products/wuque-titanium-switch-puller) - Good for tight spaces b/w switch and chassis
   - [Keycap Puller Example](https://divinikey.com/products/spiral-metal-keycap-puller) - Any cheapo one will work so long as you have thin metal wire as shown with the example
+  - [Harbor Freight Tools Quinn 87-Piece Electronic Toolkit](https://www.harborfreight.com/electronics-repair-kit-87-piece-59258.html) - A great example of a general electronics toolkit with different bits, also has a lifetime warranty
 - Lubing/Modding
   - [Geon Switch Opener](https://geon.works/products/geon-switch-opener) - Not much to say, it just works
   - [Geon Stem Picker](https://divinikey.com/collections/accessories/products/geon-stem-picker) - For shaky hands on stem lubing
