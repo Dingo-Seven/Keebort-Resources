@@ -17,7 +17,7 @@ Here are some AliExpress stores that I have had good experiences with:
 
 ## Keyboard Kits
 
-- [Zuoya GMK67](https://aliexpi.com/4Kmz) on AliExpress, good first chyna board
+- [Zuoya GMK67](https://aliexpi.com/4Kmz) on AliExpress, good first chyna board that is best at USD 20-30 for the kit
 
 ## Stabs
 
