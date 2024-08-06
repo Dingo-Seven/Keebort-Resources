@@ -8,6 +8,8 @@ Keycaps are what we use to cover up the backing technologies of the PCB and ulti
 
 The big two materials around keycaps are ABS and PBT. ABS is the material that most folks are familiar with because most OEM keycaps are made of this material. The general consensus is that ABS tends to lend itself to a higher pitch compared to PBT. This is because ABS has a lower density compared to PBT. The key to a more 'full' sound is a proper thickness, ranging from at least 1.3mm to at most 2mm or so according to Cherry specifications.
 
+ABS will develop shine over time as oils and other materials make contact with the keycap when using the keyboard under normal conditions. Sets can look nice when uniformly shined, but that requires time and effort that most folks might not think is worth the trouble. On the other hand, PBT will take much longer to develop shine, but will shine nonetheless.
+
 ## Profiles
 
 The most ubiquitous profile among hobbyists today is the Cherry Profile, but there exists many kinds of profiles as shown by [keycaps.info](https://www.keycaps.info/). Do not be afraid to explore other profiles if you have the means to. In my personal experience, I found myself enjoying DSS, MDA, and I look forward to messing around with DCS in the future at some point. Meetups are your best friend :D
