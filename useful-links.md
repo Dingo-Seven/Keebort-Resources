@@ -14,6 +14,7 @@ This is a master bibliography of community resources for ease of access as well 
 - [Keycap Profiles Legend](https://www.keycaps.info/)
 - [Alexotos 2024 Building Guide for Newbies](https://www.alexotos.com/how-to-build-a-mechanical-keyboard/)
 - [Alexotos Soldering Guide for Newbies](https://www.alexotos.com/how-to-solder-a-keyboard-the-basics/)
+- [Matrixzj Keycap Database](https://matrixzj.github.io/) - Excellent for looking up past designs for GMK/Signature Plastics, not comprehensive, but should give a good start
 
 ### QMK:
 
