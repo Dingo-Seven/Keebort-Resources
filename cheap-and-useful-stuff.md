@@ -32,7 +32,7 @@ Here are some AliExpress stores that I have had good experiences with:
 
 ## Soldering
 
-All Should be the same length at 1.05in or 2.67mm, pick whichever is cheapest for you and you're all set
+All should be the same length at 0.105in or 2.67mm, pick whichever is cheapest for you and you're all set
 
 - [Mill-Max 0305-1-15-15-47-27-10-0 Socket Bulk](https://www.mouser.com/ProductDetail/Mill-Max/0305-1-15-15-47-27-10-0) on Mouser
 - [Mill-Max 3305-0-15-15-47-27-10-0 Socket Bulk](https://www.mouser.com/ProductDetail/Mill-Max/3305-0-15-15-47-27-10-0) on Mouser
