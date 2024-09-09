@@ -23,6 +23,8 @@ This is a master bibliography of community resources for ease of access as well 
 - [Keycap Designer How-To Document](https://docs.google.com/document/d/1jjQghqjGP6BasZt4i0zTmK4p-gN_3IRhIAm2-CPE0kE/edit?usp=sharing?)
 - [nopunin10did Keycap Designer Guide GitHub Repo](https://github.com/nopunin10did/keycap-designers-guide)
 - [Drop GMK Keyset Design Article](https://drop.com/talk/121295/how-to-design-a-gmk-keycap-set-an-introduction)
+- [malpern: Huge Keyboard YouTube Playlist](https://youtube.com/playlist?list=PLZDXCYiIjJ8miXavC9HSURfkSWOjU4O1j&si=JDkGHNPHc7uXR66t)
+  - Rather exhaustive, best to have something in mind and search thru it
 
 ### QMK:
 
