@@ -32,6 +32,10 @@ Here are a couple of things I'd love to address in some capacity in the future:
 - [BlackSimon Discord Server](http://blacksimon.tv/discord)
   - If you liked the BlackSimon videos from the playlist I linked earlier, this is the community discord server where enthusiasts from different walks can help you delve deeper into the hobby or otherwise make informed purchasing decisions. If you're interested in learning about the kinds of keyboards outside of Cherry MX, this is a great place to start.
 - [QMK Discord Server](https://discord.gg/qmk)
-  - For those of you that want to learn about keebort firmware as well as creating keymaps/layers.
+  - For those of you that want to learn about keebort firmware as well as creating keymaps/layers
 - [ZMK Discord Server](https://zmk.dev/community/discord/invite)
-  - Like QMK, but for wireless keeborts.
+  - Like QMK, but for wireless keeborts
+- [Keyboard Ateliers Discord Server](https://discord.gg/b7vwhHS)
+  - For prospective designers to learn about different aspects of keebort design and discussion of work-in-progress designs
+- [Keycap Designers Discord Server](https://discord.gg/FmtA3KsfDG)
+  - For prospective designers to learn about different aspects of keycap/keyset design and discussion of work-in-progress designs
