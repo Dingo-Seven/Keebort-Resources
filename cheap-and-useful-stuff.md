@@ -45,12 +45,15 @@ All should be the same length at 0.105in or 2.67mm, pick whichever is cheapest f
   - [TX Switch Puller](https://divinikey.com/products/tx-switch-puller?variant=40208825876545) - Decent switch puller, slightly better than IC puller bc/ tabs on switch won't break
   - [WS Switch Puller](https://divinikey.com/collections/keyboard-tools/products/wuque-titanium-switch-puller) - Good for tight spaces b/w switch and chassis
   - [Keycap Puller Example](https://divinikey.com/products/spiral-metal-keycap-puller) - Any cheapo one will work so long as you have thin metal wire as shown with the example
-  - [Harbor Freight Tools Quinn 87-Piece Electronic Toolkit](https://www.harborfreight.com/electronics-repair-kit-87-piece-59258.html) - A great example of a general electronics toolkit with different bits, also has a lifetime warranty
+  - [Harbor Freight Tools Quinn 87-Piece Electronic Toolkit](https://www.harborfreight.com/electronics-repair-kit-87-piece-59258.html)
+    - A great example of a general electronics toolkit with different bits, also has a lifetime warranty
 - Lubing/Modding
   - [Geon Switch Opener](https://geon.works/products/geon-switch-opener) - Not much to say, it just works
   - [Geon Stem Picker](https://divinikey.com/collections/accessories/products/geon-stem-picker) - For shaky hands on stem lubing
   - [KeyDotCo Grease Syringe Kit](https://thekey.company/products/stabilizer-grease-syringe-kit) - Serves as a good example for what kinda syringes you want for stab lubing/tuning, look for 14/16ga flat needle tips
   - [Cheapo Makeup Micro-Applicators for Lube Applications](https://www.amazon.com/Applicator-Disposable-Applicators-Mascara-Extension/dp/B09YHJ685C) - Good for thick lubes, get brush for thin lubes
 - Misc:
-  - [Cheapo Switch Containers](https://www.aliexpress.us/item/3256805089867412.html) - 700ml will fit about 150-160ish switches comfortably - safe price is around USD 16 for 4 - I happen to use the smallest size to store springs with a little lube on there
+  - [Cheapo Switch Containers](https://www.aliexpress.us/item/3256805089867412.html)
+    - 700ml will fit about 150-160ish switches comfortably, safe price is around USD 16 for 4
+    - I happen to use the smallest size to store springs with a little lube on there
     - For storing keycap sets, I tend to recommend storing them in small parts organizers that are sold in hardware stores
