@@ -10,10 +10,12 @@ This is a master bibliography of community resources for ease of access as well 
 
 - [MechKeys Discord Keyboard Wiki](https://wiki.keyboard.gay/)
 - [r/mk Subreddit Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index/)
-- [Blur: Beginners' Orientation Article](https://thekeysource.co.uk/how-to-buy-and-build-a-custom-keyboard/)
+- [r/mk MKtrust Document](https://mktrust.org/)
+- [Blur: Beginners' Orientation Article](https://thekeysource.co.uk/how-to-buy-and-build-a-custom-keyboard/) - Magazine linked to ProtoTypist
 - [Keycap Profiles Legend](https://www.keycaps.info/)
 - [Alexotos 2024 Building Guide for Newbies](https://www.alexotos.com/how-to-build-a-mechanical-keyboard/)
 - [Alexotos Soldering Guide for Newbies](https://www.alexotos.com/how-to-solder-a-keyboard-the-basics/)
+- [Alexotos Vendor List](https://www.alexotos.com/keyboard-vendor-list/)
 - [Matrixzj Keycap Database](https://matrixzj.github.io/)
   - Excellent for looking up past designs for GMK/Signature Plastics, not comprehensive, but should give a good start
 - [Keyboard Ateliers Keyboard Designer Spreadsheet](https://docs.google.com/spreadsheets/d/1K0jNUZzxTTMkgzo043dxc4vBEOrxNa8jVf4VHk-B27U/edit?usp=sharing)
