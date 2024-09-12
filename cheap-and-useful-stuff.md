@@ -23,16 +23,21 @@ Here are some AliExpress stores that I have had good experiences with:
 
 - [Cherry 2u PCB Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0742) on Mouser
 - [Cherry 2u Plate Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0224) on Mouser
-- Looking for links for decent bulk wires (spacebars especially)
+- [KeyDotCo C3 Equalz Stab Wires](https://thekey.company/products/gold-wires) - can go down to USD 3 on sale
 
 ## Lubricants
 
-- [51004 Super Lube](https://www.amazon.com/Super-Lube-51004-Synthetic-Viscosity/dp/B000UKUHXK) => Excellent for lubing springs, your mileage may vary for lubing switches
-- [21030 Super Lube](https://www.amazon.com/Super-Lube-21030-Synthetic-Grease/dp/B000XBH9HI) => Excellent for lubing stabilizer housings and wires
+- [Gazzew Loob](https://ringerkeys.com/collections/lubricants/products/gazzews-loob-3g) - Available in thick/thin blends for linear/tactiles
+  - Refer to [Gazzew website](https://www.gazzew.com/home) to see if your region has loob
+- [51004 Super Lube](https://www.amazon.com/Super-Lube-51004-Synthetic-Viscosity/dp/B000UKUHXK) - Excellent for lubing springs, your mileage may vary for lubing switches
+- [21030 Super Lube](https://www.amazon.com/Super-Lube-21030-Synthetic-Grease/dp/B000XBH9HI) - Excellent for lubing stabilizer housings and wires
 
 ## Soldering
 
-All should be the same length at 0.105in or 2.67mm, pick whichever is cheapest for you and you're all set
+- [Pinecil V2](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) - Decent soldering tip for solder PCBs
+- [Pinecil Fine Soldering Tips](https://pine64.com/product/pinecil-soldering-short-tip-set-fine/) - For finer works like Mill-Max
+
+All the following Mill-Max sockets should be the same length at 0.105in or 2.67mm, pick whichever is cheapest for you and you're all set
 
 - [Mill-Max 0305-1-15-15-47-27-10-0 Socket Bulk](https://mou.sr/3B0XuoA) on Mouser
 - [Mill-Max 3305-0-15-15-47-27-10-0 Socket Bulk](https://mou.sr/3zcrq0c) on Mouser
