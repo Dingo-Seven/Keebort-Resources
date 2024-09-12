@@ -27,6 +27,8 @@ This is a master bibliography of community resources for ease of access as well 
 - [Drop GMK Keyset Design Article](https://drop.com/talk/121295/how-to-design-a-gmk-keycap-set-an-introduction)
 - [malpern: Huge Keyboard YouTube Playlist](https://youtube.com/playlist?list=PLZDXCYiIjJ8miXavC9HSURfkSWOjU4O1j&si=JDkGHNPHc7uXR66t)
   - Rather exhaustive, best to have something in mind and search thru it
+- [KDBnews Vendor List](https://kbd.news/vendors)
+- [keebmap.xyz](https://keebmap.xyz/) - A visual way to search for vendors
 
 ### QMK:
 
