@@ -30,6 +30,8 @@ This is a master bibliography of community resources for ease of access as well 
   - Rather exhaustive, best to have something in mind and search thru it
 - [KDBnews Vendor List](https://kbd.news/vendors)
 - [keebmap.xyz](https://keebmap.xyz/) - A visual way to search for vendors
+- [MechMarket.xyz](https://www.themechmarket.xyz/) - Useful site to check recent selling prices of things on MechMarket
+- [BlackSimon Wiki Guides](https://wiki.blacksimon.tv/en/guides) - Useful guides from the BlackSimon Discord Server
 
 ### QMK:
 

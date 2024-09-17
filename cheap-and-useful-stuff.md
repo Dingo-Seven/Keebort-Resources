@@ -63,3 +63,7 @@ All the following Mill-Max sockets should be the same length at 0.105in or 2.67m
     - 700ml will fit about 150-160ish switches comfortably, safe price is around USD 16 for 4
     - I happen to use the smallest size to store springs with a little lube on there
     - For storing keycap sets, I tend to recommend storing them in small parts organizers that are sold in hardware stores
+
+## Design
+
+- [Keyboard Render Kit 2](https://blendermarket.com/products/krk2) - Useful for 3D modelling on Blender for ICs/GBs
