@@ -48,4 +48,3 @@ This is a master bibliography of community resources for ease of access as well 
 ## Switches
 
 - [Link to Milktooth Store, good for US folks](https://milktooth.nu/)
-- Looking for INTL vendors for switches to add regions :D
