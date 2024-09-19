@@ -14,16 +14,27 @@ ABS will develop shine over time as oils and other materials make contact with t
 
 The most ubiquitous profile among hobbyists today is the Cherry Profile, but there exists many kinds of profiles as shown by [keycaps.info](https://www.keycaps.info/). Do not be afraid to explore other profiles if you have the means to. In my personal experience, I found myself enjoying DSS, MDA, and I look forward to messing around with DCS in the future at some point. Meetups are your best friend :D
 
-Here are some notable profiles that are commonplace throughout users in the hobby, in no particular order:
+Here is a basic list of profiles, in no particular order:
 
-- Cherry/GMK/CYL
-- OEM
-- DCX
-- DSA
-- SA
+- Cherry
+- GMK CYL (Cherry but GMK)
+- GMK MTNU
+- OEM (Cherry but slightly taller and additional row sculpture)
+- Drop DCX
+- Drop MT3
+- Signature Plastics DSA
+- Signature Plastics DSS
+- Signature Plastics SA
+- Signature Plastics DCS
+- Keyreative KAM
+- Keyreative KAT
 - XDA (I believe XDA Matcha is a rite of passage in this hobby, that's right, Anchor XP)
 - MDA
-- MT3
+- MOA
+- MAO
+- ASA (SA but Akko)
+- OSA
+- KSA
 
 ## Manufacturing
 
