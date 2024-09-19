@@ -19,23 +19,24 @@ Currently, I am opening discussions to GitHub Issues to keep discussions open an
 
 **Full Disclosure:** I am collaborating with some folks from the Keybroke community to explore making community-driven resources similar to BlackSimon's [chyna](https://docs.google.com/document/d/1bcJk5qE1jgwdBjeXSPYOETXIrJMdZbO3QTsZoRxrO0E)/[budget](https://blacksimon.tv/budget) sheets, but I will not be limiting any knowledge/contributions from other communities. Credit where credit is due.
 
-Here are a couple of things I'd love to address in some capacity in the future:
+## Communities to Consider Joining for Keebort Enjoyers:
 
-- Gaining some level of organization similar to this [repository](https://github.com/Callsign-Dingo-7/UK-Happy-Hardcore-Resources) that I made for folks who were interested in UK Happy Hardcore music production.
-  - I have some ideas in terms of separating keyboard tools, assembly, mods, and design or something along those lines, but I think I need to discuss this with folks who have been in the scene longer than I have to help guide me in the right direction.
-- I'm looking around for useful resources for things like designing, programming, and soldering keeborts to beefen this repo up.
-
-## Useful Communities to Consider Joining for Keebort Enjoyers:
+### Different Scenes
 
 - Keybroke: [Subreddit](https://www.reddit.com/r/KeyBroke/) and [Discord Server](https://discord.gg/EgMsPG85Ke)
   - A prospective sister community to r/mk, catered to beginners and people interested in building keyboards across various different levels of budget. This entails searching for the best deals possible according to your preferences and budget allocations.
 - [BlackSimon Discord Server](http://blacksimon.tv/discord)
   - If you liked the BlackSimon videos from the playlist I linked earlier, this is the community discord server where enthusiasts from different walks can help you delve deeper into the hobby or otherwise make informed purchasing decisions. If you're interested in learning about the kinds of keyboards outside of Cherry MX, this is a great place to start.
-- [QMK Discord Server](https://discord.gg/qmk)
-  - For those of you that want to learn about keebort firmware as well as creating keymaps/layers
-- [ZMK Discord Server](https://zmk.dev/community/discord/invite)
-  - Like QMK, but for wireless keeborts
+- [40s Discord Server](https://discord.gg/40percent)
+  - For those of you that want to learn about 40% boards ~~and get put on a watchlist~~
+
+### Design/Programming
+
 - [Keyboard Ateliers Discord Server](https://discord.gg/b7vwhHS)
   - For prospective designers to learn about different aspects of keebort design and discussion of work-in-progress designs
 - [Keycap Designers Discord Server](https://discord.gg/FmtA3KsfDG)
   - For prospective designers to learn about different aspects of keycap/keyset design and discussion of work-in-progress designs
+- [QMK Discord Server](https://discord.gg/qmk)
+  - For those of you that want to learn about keebort firmware as well as creating keymaps/layers
+- [ZMK Discord Server](https://zmk.dev/community/discord/invite)
+  - Like QMK, but for wireless keeborts
