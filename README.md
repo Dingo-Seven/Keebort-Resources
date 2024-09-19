@@ -9,7 +9,7 @@ Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBSjQh1Z
 - Serves as great material for folks to revisit and rehash their knowledge base.
 - You are more than welcome to contribute to this playlist thru GitHub Issues or if I post the playlist anywhere else on the net.
 
-[Here](/useful-links.md) are a set of useful links, regardless of your experience in the hobby. If you are more experienced, you can visit these links as well as the [compiled cheap stuff](/cheap-stuff.md) I've found and not miss out on much as of 28 July 2024.
+[Here](/useful-links.md) are a set of useful links, regardless of your experience in the hobby. If you are more experienced, you can visit these links as well as the [compiled cheap stuff](/cheap-stuff.md) I've found and not miss out on much as of 18 Sept 2024.
 
 ## Want to Contribute?
 
