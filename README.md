@@ -15,7 +15,7 @@ Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBSjQh1Z
 
 First and foremost, thank you for considering to contribute :D
 
-Currently, I am opening discussions to GitHub Issues to keep discussions open and transparent among members of the community. As of writing the first few iterations of the repo (mid-July 2024), The mission is, and always will be, to accumulate a breadth of knowledge and resources to share among beginners and enthusiasts (including prospective engineers/designers) alike, so that everyone can benefit from this set of resources.
+Currently, I am opening discussions to GitHub Issues to keep discussions open and transparent among members of the community. The mission is, and always will be, to accumulate a breadth of knowledge and resources to share among beginners and enthusiasts (including prospective engineers/designers) alike, so that everyone can benefit from this set of resources.
 
 **Full Disclosure:** I am collaborating with some folks from the Keybroke community to explore making community-driven resources similar to BlackSimon's [chyna](https://docs.google.com/document/d/1bcJk5qE1jgwdBjeXSPYOETXIrJMdZbO3QTsZoRxrO0E)/[budget](https://blacksimon.tv/budget) sheets, but I will not be limiting any knowledge/contributions from other communities. Credit where credit is due.
 
