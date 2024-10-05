@@ -23,7 +23,7 @@ Here are some AliExpress stores that I have had good experiences with:
 
 - [Cherry 2u PCB Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0742) on Mouser
 - [Cherry 2u Plate Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0224) on Mouser
-- [KeyDotCo C3 Equalz Stab Wires](https://thekey.company/products/gold-wires) - can go down to USD 3 on sale
+- [Geon Balance Stab Wire](https://divinikey.com/products/geon-balanced-stabilizer-wire)
 
 ## Lubricants
 
