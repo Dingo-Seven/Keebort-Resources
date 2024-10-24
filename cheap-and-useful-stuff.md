@@ -17,7 +17,6 @@ Here are some AliExpress stores that I have had good experiences with:
 
 ## Keyboard Kits
 
-- [Zuoya GMK67](https://aliexpi.com/4Kmz) on AliExpress, good first chyna board that is best at USD 20-30 for the kit
 
 ## Stabs
 
@@ -55,8 +54,9 @@ All the following Mill-Max sockets should be the same length at 0.105in or 2.67m
 - Lubing/Modding
   - [Geon Switch Opener](https://geon.works/products/geon-switch-opener) - Not much to say, it just works
   - [Geon Stem Picker](https://divinikey.com/collections/accessories/products/geon-stem-picker) - For shaky hands on stem lubing
-  - [KeyDotCo Grease Syringe Kit](https://thekey.company/products/stabilizer-grease-syringe-kit)
-    - Serves as a good example for what kinda syringes you want for stab lubing/tuning, look for 14/16ga flat needle tips
+  - [Geon Trimmer](https://divinikey.com/products/geon-trimmer) - Works great for reducing tightness of switch stems
+  - [Grease Syringe Kit](https://www.amazon.com/gp/product/B096SXX35J/ref=ewc_pr_img_1?smid=A18PGAU3QO1D7Q&th=1)
+    - General rule of thumb is to look for 14/16ga flat needle tips
   - [Cheapo Makeup Micro-Applicators for Lube Applications](https://www.amazon.com/Applicator-Disposable-Applicators-Mascara-Extension/dp/B09YHJ685C) - Good for thick lubes, get brush for thin lubes
 - Misc:
   - [Cheapo Switch Containers](https://www.aliexpress.us/item/3256805089867412.html)
