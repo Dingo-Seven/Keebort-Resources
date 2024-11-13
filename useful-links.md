@@ -21,6 +21,7 @@ This is a master bibliography of community resources for ease of access as well 
   - Excellent for looking up past designs for GMK/Signature Plastics, not comprehensive, but should give a good start
 - [Keyboard Ateliers Keyboard Designer Spreadsheet](https://docs.google.com/spreadsheets/d/1K0jNUZzxTTMkgzo043dxc4vBEOrxNa8jVf4VHk-B27U/edit?usp=sharing)
 - [Keyboard Ateliers PCB Parts List](https://docs.google.com/spreadsheets/d/1FEfasm151h9J8HyOO7WjrpiG1_9aaA0eOk8LSM8W4AA/edit?usp=sharing)
+- [Keyboard Ateliers Keyboard Design Wiki](https://wiki.kbatelier.org/)
 - [ai03 Keyboard Wiki](https://wiki.ai03.com/)
 - [Keycap Designer Discord Spreadsheet](https://docs.google.com/spreadsheets/d/1tuEo6a7a7Xo_tc_rDtJlTlPOIL8HA-SfARZtdP6GLvU/edit#gid=823595088)
 - [Keycap Designer How-To Document](https://docs.google.com/document/d/1jjQghqjGP6BasZt4i0zTmK4p-gN_3IRhIAm2-CPE0kE/edit?usp=sharing?)
