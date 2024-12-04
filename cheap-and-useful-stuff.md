@@ -1,6 +1,6 @@
-# Cheap Stuff
+# Cheap and Useful Stuff
 
-In general, this is a compilation of links to various cheap things that I think are good deals/examples of what you'd be looking for during your time in the hobby.
+In general, this is a compilation of links to various cheap/useful things that I think are good deals/examples of what you'd be looking for during your time in the hobby.
 
 I also am looking to include useful resources for folks to use when shopping around to avoid taking too much risk when using platforms like AliExpress and TaoBao.
 
@@ -17,12 +17,11 @@ Here are some AliExpress stores that I have had good experiences with:
 
 ## Keyboard Kits
 
-
 ## Stabs
 
 - [Cherry 2u PCB Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0742) on Mouser
 - [Cherry 2u Plate Stab Bulk](https://www.mouser.com/ProductDetail/540-G99-0224) on Mouser
-- [Geon Balance Stab Wire](https://divinikey.com/products/geon-balanced-stabilizer-wire)
+- [Geon Balanced Stab Wire](https://divinikey.com/products/geon-balanced-stabilizer-wire)
 
 ## Lubricants
 
@@ -33,8 +32,26 @@ Here are some AliExpress stores that I have had good experiences with:
 
 ## Soldering
 
+### Tips and their maintenance
+
 - [Pinecil V2](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) - Decent soldering tip for solder PCBs
 - [Pinecil Fine Soldering Tips](https://pine64.com/product/pinecil-soldering-short-tip-set-fine/) - For finer works like Mill-Max
+- [FNIRSI HS-02B Soldering Iron](https://www.amazon.com/FNIRSI-Soldering-Temperature-Electronics-Precision/dp/B0D9LTCDRR) - Alternative to Pinecil
+- [Thermaltronics TMT-TC-2 Tip Tinner](https://www.amazon.com/dp/B00NS4J6BY) - Tin your tips so they last a whole lot longer
+- [Basic Soldering Iron Tip Metal Wool](https://www.amazon.com/Soldering-Iron-Tip-Cleaner-Non-slip/dp/B08SLBSLK4) - To remove debris/gunk off your iron tip
+
+### Solder Wire
+
+- [Kester Solder 63/37 Rosin Core 0.8mm diameter solder wire](https://www.amazon.com/dp/B00DE2QVIG) - Industry standard, do not cut corners and get gud solder
+- [Kester Solder 63/37 Rosin Core 0.4mm diameter solder wire](https://www.amazon.com/dp/B004X4L076) - For Mill-Maxxing
+
+### Desoldering
+
+- [ENGINEER SS-03 Solder Sucker](https://www.amazon.com/dp/B0D7Q293KV) - Good for those with small hands, silicone tip for finer work
+- [HAKKO SPPON Big Black Solder Sucker](https://www.amazon.com/dp/B001D7IGX2) - 2-handed operation, biggie cheese
+- [EDSYN Soldapullt Solder Sucker](https://www.amazon.com/EDSYN-The-Original-Deluxe-SOLDAPULLT/dp/B006GOKVKI) - Alternative in case the above two are not available
+
+### Mill-Maxxing
 
 All the following Mill-Max sockets should be the same length at 0.105in or 2.67mm, pick whichever is cheapest for you and you're all set
 
@@ -56,7 +73,7 @@ All the following Mill-Max sockets should be the same length at 0.105in or 2.67m
   - [Geon Stem Picker](https://divinikey.com/collections/accessories/products/geon-stem-picker) - For shaky hands on stem lubing
   - [Geon Trimmer](https://divinikey.com/products/geon-trimmer) - Works great for reducing tightness of switch stems
   - [Grease Syringe Kit](https://www.amazon.com/gp/product/B096SXX35J/ref=ewc_pr_img_1?smid=A18PGAU3QO1D7Q&th=1)
-    - General rule of thumb is to look for 14/16ga flat needle tips
+    - General rule of thumb is to look for 14/16ga or smaller flat needle tips, green plastic nozzles also work
   - [Cheapo Makeup Micro-Applicators for Lube Applications](https://www.amazon.com/Applicator-Disposable-Applicators-Mascara-Extension/dp/B09YHJ685C) - Good for thick lubes, get brush for thin lubes
 - Misc:
   - [Cheapo Switch Containers](https://www.aliexpress.us/item/3256805089867412.html)
