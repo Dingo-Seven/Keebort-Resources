@@ -44,6 +44,7 @@ Here are some AliExpress stores that I have had good experiences with:
 
 - [Kester Solder 63/37 Rosin Core 0.8mm diameter solder wire](https://www.amazon.com/dp/B00DE2QVIG) - Industry standard, do not cut corners and get gud solder
 - [Kester Solder 63/37 Rosin Core 0.4mm diameter solder wire](https://www.amazon.com/dp/B004X4L076) - For Mill-Maxxing
+- [3D-Printable Dispensing Tool](https://www.printables.com/model/843353-solder-scroll-ergonomic-adjustable-solder-tool) - Soldering dispensing alternative to a spool
 
 ### Desoldering
 
