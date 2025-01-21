@@ -9,7 +9,7 @@ For those that came before me.
 This is a master bibliography of community resources for ease of access as well as ones that I may reference in the other files. I don't want folks to only look at my perspective on things, and to view the different resources out there so that they can begin to think for themselves.
 
 - [MechKeys Discord Keyboard Wiki](https://wiki.keyboard.gay/)
-  - Great read to understand some historical context and basic general concepts, but take a grain of salt as it is not updated to the curent scene
+  - Great read to understand some historical context and basic general concepts, but take a grain of salt as it is not updated to the current scene
 - [r/mk Subreddit Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index/)
 - [r/mk MKtrust Document](https://mktrust.org/)
 - [Blur: Beginners' Orientation Article](https://thekeysource.co.uk/how-to-buy-and-build-a-custom-keyboard/) - Magazine linked to ProtoTypist
