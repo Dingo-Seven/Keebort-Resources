@@ -34,7 +34,7 @@ Here are some AliExpress stores that I have had good experiences with:
 
 ### Tips and their maintenance
 
-- [Pinecil V2](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) - Decent soldering tip for solder PCBs
+- [Pinecil V2](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) - Decent soldering tip for solder PCBs, has its own caveats
 - [Pinecil Fine Soldering Tips](https://pine64.com/product/pinecil-soldering-short-tip-set-fine/) - For finer works like Mill-Max
 - [FNIRSI HS-02A Soldering Iron](https://www.amazon.com/gp/product/B0DBLMH1HS) - Alternative to Pinecil
 - [Hakko 633-01 633 Iron Holder](https://www.amazon.com/gp/product/B000TGNWCS) - Good for FNIRSI HS-02
