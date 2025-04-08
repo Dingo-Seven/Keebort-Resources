@@ -36,7 +36,7 @@ Here are some AliExpress stores that I have had good experiences with:
 
 - [Pinecil V2](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) - Decent soldering tip for solder PCBs, has its own caveats
 - [Pinecil Fine Soldering Tips](https://pine64.com/product/pinecil-soldering-short-tip-set-fine/) - For finer works like Mill-Max
-- [FNIRSI HS-02A Soldering Iron](https://www.amazon.com/gp/product/B0DBLMH1HS) - Alternative to Pinecil
+- [FNIRSI HS-02A Soldering Iron](https://www.amazon.com/gp/product/B0DBLMH1HS) - Alternative to Pinecil, I personally use this
 - [Hakko 633-01 633 Iron Holder](https://www.amazon.com/gp/product/B000TGNWCS) - Good for FNIRSI HS-02
 - [Thermaltronics TMT-TC-2 Tip Tinner](https://www.amazon.com/dp/B00NS4J6BY) - Tin your tips so they last a whole lot longer
 - [Thermaltronics Brass Wool Refills](https://www.amazon.com/gp/product/B00NS49LPU) - To replace gunky wool on the tip cleaner
