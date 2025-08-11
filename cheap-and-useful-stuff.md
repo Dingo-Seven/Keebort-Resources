@@ -58,7 +58,7 @@ Here are some AliExpress stores that I have had good experiences with:
 
 ### Mill-Maxxing
 
-All the following Mill-Max sockets should be the same length at 0.105in or 2.67mm, pick whichever is cheapest for you and you're all set
+All the following Mill-Max sockets should be the same length at 0.105in or 2.67mm but lip size does change, pick whichever is cheapest for you and you're all set
 
 - [Mill-Max 0305-1-15-15-47-27-10-0 Socket Bulk](https://mou.sr/3B0XuoA) on Mouser
 - [Mill-Max 3305-0-15-15-47-27-10-0 Socket Bulk](https://mou.sr/3zcrq0c) on Mouser
