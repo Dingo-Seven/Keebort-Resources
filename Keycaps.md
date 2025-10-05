@@ -48,3 +48,5 @@ Keycaps have a few ways of being manufactured, so I will be providing a brief ov
 - Reverse Dye-Sub AKA 5-Side Dye-Sub => Heats all surfaces of the keycap except for the underside to dye the whole keycap
   - Susceptible to warping which can affect stabilized keys like backspace, enter, and spacebar, to name a few of them
   - This also makes the keycaps less thick, which can lend them to a higher pitch compared to conventional dye-sub
+- Keyreative Hybrid Doubleshot-Dye-Sub => Injection layer made for keycap legends, Dye-Sub (different colors are possible) is applied to aforementioned layer, plastic injection layer for keycap shape
+  - Supposedly a workaround to avoid the problems of Reverse Dye-Sub while also offering color range for different sublegends

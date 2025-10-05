@@ -6,6 +6,10 @@ Keyboards are fairly self-explanatory, but to sum them up, they are an input dev
 
 There also exist many kinds of layouts, starting from full-size 108-key layout, working down to 96% 1800 layout, to 80% Tenkeyless (TKL), to 75% Compact TKL, to 65% compact, to 60%. These are just the most common layouts that you'd find, there's **_plenty_** more where that came from, including 40s, ergo, planck/preonic, HHKB, etc, to name a few.
 
+## QCing a keyboard
+
+To be added
+
 ## Building a keyboard
 
 To be added

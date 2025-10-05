@@ -23,5 +23,3 @@ To be added
 - [Zephyr Project Beginner Orientation](https://docs.zephyrproject.org/latest/develop/getting_started/index.html) - Good for learning what goes on behind the curtain in ZMK
 
 ## Keyset Design
-
-To be added

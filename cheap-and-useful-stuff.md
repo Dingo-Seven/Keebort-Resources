@@ -45,8 +45,8 @@ Here are some AliExpress stores that I have had good experiences with:
 ### Solder Wire
 
 - [KOTTO Solder Fume Extractor](https://www.amazon.com/gp/product/B09XXKG863?ie=UTF8&th=1) - Safety first, get a working fume extractor before you even get wires
-- [Kester Solder 63/37 Rosin Core 0.8mm diameter solder wire](https://www.amazon.com/dp/B00DE2QVIG) - De Facto wire of choice, do not cut corners and get gud leaded solder
-- [Kester Solder 63/37 Rosin Core 0.4mm diameter solder wire](https://www.amazon.com/dp/B004X4L076) - For Mill-Maxxing
+- [Kester Solder 63/37 Rosin Core 0.8mm diameter solder wire 24-6337-0027](https://www.amazon.com/dp/B00DE2QVIG) - De Facto wire of choice, do not cut corners and get gud leaded solder
+- [Kester Solder 63/37 Rosin Core 0.4mm diameter solder wire 24-6337-0007](https://www.amazon.com/dp/B004X4L076) - For Mill-Maxxing
 - [Delcast R1K Solder Dispenser Reel ](https://www.amazon.com/gp/product/B00PQF98X4) - Solder spool for ease of use
 - [3D-Printable Dispensing Tool](https://www.printables.com/model/843353-solder-scroll-ergonomic-adjustable-solder-tool) - Soldering dispensing alternative to a spool
 
