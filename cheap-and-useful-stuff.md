@@ -4,9 +4,11 @@ In general, this is a compilation of links to various cheap/useful things that I
 
 I also am looking to include useful resources for folks to use when shopping around to avoid taking too much risk when using platforms like AliExpress and TaoBao.
 
+5 October 2025 => Tariffs have made shopping on AliExpress difficult for folks in the US, TaoBao group buys are also difficult to coordinate, try to avoid AliExpress and work with things available domestically for US folks unless you got a friend who can TaoBao effectively.
+
 ## Shopping
 
-- Link to [sheet](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTC07f0YZG5CrKL2Z2oo-L09cMz6pnGOsV2Jj1hpLIpBHFAcK9_Pyegcq4LhHK2MOo8WaUYQ_SdYdIn/pubhtml) that documents experiences with AliExpress stores that is maintained by Keybroke's xmex. Currently editing to allow for direct community input through google form/survey inputs.
+~~Link to [sheet](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTC07f0YZG5CrKL2Z2oo-L09cMz6pnGOsV2Jj1hpLIpBHFAcK9_Pyegcq4LhHK2MOo8WaUYQ_SdYdIn/pubhtml) that documents experiences with AliExpress stores that is maintained by Keybroke's xmex. Currently editing to allow for direct community input through google form/survey inputs.~~ Currently not being maintained
 
 Here are some AliExpress stores that I have had good experiences with:
 
@@ -55,6 +57,8 @@ Here are some AliExpress stores that I have had good experiences with:
 - [ENGINEER SS-03 Solder Sucker](https://www.amazon.com/dp/B0D7Q293KV) - Good for those with small hands, silicone tip for finer work
 - [HAKKO SPPON Big Black Solder Sucker](https://www.amazon.com/dp/B001D7IGX2) - 2-handed operation, biggie cheese
 - [EDSYN Soldapullt Solder Sucker](https://www.amazon.com/EDSYN-The-Original-Deluxe-SOLDAPULLT/dp/B006GOKVKI) - Alternative in case the above two are not available
+- [HAKKO FR-301 Desoldering Tool](https://www.amazon.com/Hakko-FR-301-Desoldering-Tool/dp/B07BKSLLG9) - If you're desoldering boards on the regular, consider this to make life easier, also good for cleaning pads for mill-maxxing a used PCB
+- [HAKKO FR-301 Desoldering Tip N61-13](https://www.amazon.com/Hakko-Desoldering-Nozzle-N61-13-FR-4101/dp/B01N4TWOLS) - Mandatory tip to make your life easier when desoldering MX pads, less cleaning and maintenance needed for FR-301
 
 ### Mill-Maxxing
 
@@ -62,12 +66,15 @@ All the following Mill-Max sockets should be the same length at 0.105in or 2.67m
 
 - [Mill-Max 0305-1-15-15-47-27-10-0 Socket Bulk](https://mou.sr/3B0XuoA) on Mouser
 - [Mill-Max 3305-0-15-15-47-27-10-0 Socket Bulk](https://mou.sr/3zcrq0c) on Mouser
+- [Mill-Max 3305-0-15-80-47-27-10-0 Socket Bulk](https://modedesigns.com/products/mill-max-3305-sockets) on Mode (you get a rough bulk discount as though you ordered )
 - [Mill-Max 7305-0-15-15-47-27-10-0 Socket Bulk](https://mou.sr/3GI1SIY) on Mouser
 
 ## Useful Tools/Misc
 
 - Builds/Teardowns
   - [Geon Plate Support Fork](https://geon.works/products/geon-plate-support-fork) - For foamless configs
+  - [Geon x Nanch Precision Toolset](https://divinikey.com/products/geon-x-nanch-precision-screwdriver-set) - For boards with deeper recesses for screws (i.e aggresive typing angle or screwless)
+  - [Bowl x SwagKeys x Nanch Precision Toolset](https://bowlkeyboards.com/collections/tools/products/swagkeys-x-nanch-precision-screwdriver-set) - Same as above
   - [TX Switch Puller](https://divinikey.com/products/tx-switch-puller?variant=40208825876545) - Decent switch puller, slightly better than IC puller bc/ tabs on switch won't break
   - [WS Switch Puller](https://divinikey.com/collections/keyboard-tools/products/wuque-titanium-switch-puller) - Good for tight spaces b/w switch and chassis
   - [WS Keycap Puller](https://shop.wuquestudio.com/products/ws-keycap-puller) - To avoid making digs at the corner of keycaps like you would with conventional wire pullers
@@ -91,4 +98,4 @@ All the following Mill-Max sockets should be the same length at 0.105in or 2.67m
 
 ## Design
 
-- [Keyboard Render Kit 2](https://blendermarket.com/products/krk2) - Useful for 3D modelling on Blender for ICs/GBs
+- [Keyboard Render Kit 2](https://blendermarket.com/products/krk2) - Useful for 3D modelling keysets on Blender for ICs/GBs

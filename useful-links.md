@@ -12,13 +12,14 @@ This is a master bibliography of community resources for ease of access as well 
   - Great read to understand some historical context and basic general concepts, but take a grain of salt as it is not updated to the current scene
 - [r/mk Subreddit Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index/)
 - [r/mk MKtrust Document](https://mktrust.org/)
-- [Blur: Beginners' Orientation Article](https://thekeysource.co.uk/how-to-buy-and-build-a-custom-keyboard/) - Magazine linked to ProtoTypist
 - [Keycap Profiles Legend](https://www.keycaps.info/)
 - [Alexotos 2024 Building Guide for Newbies](https://www.alexotos.com/how-to-build-a-mechanical-keyboard/)
 - [Alexotos Soldering Guide for Newbies](https://www.alexotos.com/how-to-solder-a-keyboard-the-basics/)
 - [Alexotos Vendor List](https://www.alexotos.com/keyboard-vendor-list/)
 - [Matrixzj Keycap Database](https://matrixzj.github.io/)
-  - Excellent for looking up past designs for GMK/Signature Plastics, not comprehensive, but should give a good start
+  - Excellent for looking up past designs for GMK/Signature Plastics, not comprehensive, but should give a good start, not currently maintained as of 2023
+- [dvorcol Keyca(p)lendar](https://keycaplendar.firebaseapp.com/)
+  - Another rendition of looking up past designs for keycap sets, not comprehensive, but currently maintained as of 5 Oct. 2025
 - [Keyboard Ateliers Keyboard Designer Spreadsheet](https://docs.google.com/spreadsheets/d/1K0jNUZzxTTMkgzo043dxc4vBEOrxNa8jVf4VHk-B27U/edit?usp=sharing)
 - [Keyboard Ateliers PCB Parts List](https://docs.google.com/spreadsheets/d/1FEfasm151h9J8HyOO7WjrpiG1_9aaA0eOk8LSM8W4AA/edit?usp=sharing)
 - [Keyboard Ateliers Keyboard Design Wiki](https://wiki.kbatelier.org/)
@@ -33,6 +34,8 @@ This is a master bibliography of community resources for ease of access as well 
 - [keebmap.xyz](https://keebmap.xyz/) - A visual way to search for vendors
 - ~~[MechMarket.xyz](https://www.themechmarket.xyz/) - Useful site to check recent selling prices of things on MechMarket~~ DEPRECATED
 - [BlackSimon Wiki Guides](https://wiki.blacksimon.tv/en/guides) - Useful guides from the BlackSimon Discord Server
+- [Keyboard Layout Editor (KLE)](https://www.keyboard-layout-editor.com/) - A useful tool for creating layouts and ideating keyset kitting
+- [Keyboard Layout Creator](https://keyboard-layout-creator.com/) - A more recent rendition of Keyboard Layout Editor that is more intuitive and actively maintained
 
 ### QMK:
 
